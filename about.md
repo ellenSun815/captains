@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Just a kid.
+写字的。
