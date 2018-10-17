@@ -1,14 +1,14 @@
 # Site settings
-title:       Captains-log
-author:      Masha Safina
-description: ":rocket: A responsive Jekyll theme based on my personal internet site"
-baseurl:     "/captains-log" 
-url:         "https://mashlo.github.io" 
+title:       Ellen Space
+author:      Ellen
+description: "Runing.Traveling.Living."
+baseurl:     "/Ellen Space"
+url:         "https://ellenSun815.github.io"
 
 # Social Links
-email:            safe@masha.space
-twitter_username: mashasafina
-github_username:  mashlo
+# email:            safe@masha.space
+twitter_username: syr1993815
+github_username:  ellenSun815
 
 # Build settings
 markdown: kramdown
