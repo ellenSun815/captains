@@ -1,5 +1,5 @@
 // Typography
-$font-family-base: 'sans-serif', Helvetica, Arial, Open Sans;
+$font-family-base: 'Arial', Helvetica, Arialsans-serif, Open Sans;
 $font-family-sub:  'Droid Serif', serif;
 
 $font-size-base:   16px;
@@ -33,7 +33,7 @@ $grey-color:   lighten($text-color-light, 20%);
 $border-color: lighten($text-color-light, 20%);
 
 // Max width of the content area
-$content-width: 680px;
+$content-width: 780px;
 
 // Breakpoints
 $reflow-point:  860px;
